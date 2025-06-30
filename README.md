@@ -33,7 +33,7 @@ The application uses:
 3. Open a terminal in the project directory.
 4. Run the program:
    ```bash
-   python calculator.py
+   python main.py
 5. A window will open displaying the calculator interface.
 
 Dependencies
